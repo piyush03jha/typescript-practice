@@ -1,1 +1,1 @@
-learning tailwind
+learning typescript
